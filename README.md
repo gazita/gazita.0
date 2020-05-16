@@ -32,7 +32,7 @@ Los estilos se han creado a partir de Normalize.css y Sanitize.css.
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 </head>
 <body>
-<h1>Gazita.0</h1>
+<h1>gazita.geosphere</h1>
 <h2>Ejemplo HTML</h2>
 </body>
 </html>
